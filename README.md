@@ -10,5 +10,7 @@ https://club.rt-thread.org/ask/article/3304.html
 
 ## FFmpeg + SDL 实现的视频解码播放
 
+![8](figures/8.gif)
+
 ## SDL 游戏开发
 
