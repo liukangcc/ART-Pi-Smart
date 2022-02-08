@@ -1,0 +1,25 @@
+{
+    "MicroPython.executeButton": [
+        {
+            "text": "▶",
+            "tooltip": "运行",
+            "alignment": "left",
+            "command": "extension.executeFile",
+            "priority": 3.5
+        }
+    ],
+    "MicroPython.syncButton": [
+        {
+            "text": "$(sync)",
+            "tooltip": "同步",
+            "alignment": "left",
+            "command": "extension.execute",
+            "priority": 4
+        }
+    ]
+    // "RT-Thread Smart.SDK ROOT": "",
+    // "RT-Thread Smart.Server IP": "",
+    // "RT-Thread Smart.Server Port": "1234",
+    // "RT-Thread Smart.Program": "hello.elf",
+    // "RT-Thread Smart.Target Path": "/root/bin/"
+}
